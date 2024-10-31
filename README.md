@@ -1,3 +1,4 @@
 # DS-ALGO
-past learning history \n
+past learning history
+---
 Data Structure and Algorithms 
