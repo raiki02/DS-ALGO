@@ -1,2 +1,2 @@
 # DS-ALGO
-Data Structure amd Algorithms 
+Data Structure and Algorithms 
