@@ -498,6 +498,7 @@ int main()
 /*
 满足leetcode的全排列问题
 */
+#if 0
 int arr[] = { 1,2,3 };
 const int length = sizeof(arr) / sizeof(arr[0]);
 vector<int> x;
@@ -533,3 +534,4 @@ int main()
 	func(0);
 	return 0;
 }
+#endif
